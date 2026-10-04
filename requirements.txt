@@ -1,0 +1,14 @@
+numpy>=1.26,<2
+pandas>=2.2,<3
+opencv-python>=4.10,<5
+# The legacy Hands API used in this beginner-friendly project.
+mediapipe==0.10.21
+# Required by MediaPipe 0.10.21's legacy Hands API.
+protobuf>=4.25.3,<5
+tensorflow>=2.16,<2.17
+scikit-learn>=1.5,<2
+matplotlib>=3.9,<4
+seaborn>=0.13,<1
+streamlit>=1.40,<1.41
+pyttsx3>=2.90,<3
+joblib>=1.4,<2
